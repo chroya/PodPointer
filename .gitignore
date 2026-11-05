@@ -1,0 +1,8 @@
+# Build output
+build/
+
+# Local signing material (keychain password, certificate) – never commit
+.signing/
+
+# macOS
+.DS_Store
